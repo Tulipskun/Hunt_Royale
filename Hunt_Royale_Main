@@ -1,8 +1,5 @@
 return {
-version = 10,
-admin = true,
-admin2 = true,
-admin3 = true,
+version = 11,
 hunt001 = true,
 hunt002 = true,
 hunt003 = true,
@@ -102,5 +99,5 @@ hunt096 = true,
 hunt097 = true,
 hunt098 = true,
 hunt099 = true,
-hunt0100 = true
+hunt100 = true
 }
