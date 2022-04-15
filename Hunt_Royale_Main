@@ -34,7 +34,7 @@ return {
     hunt032 = {false,false,true},
     hunt033 = {true,false,false},
     hunt034 = {true,false,false},
-    hunt035 = {true,false,true},
+    hunt035 = {true,true,true},
     hunt036 = {true,false,false},
     hunt037 = {true,false,true},
     hunt038 = {true,false,false},
