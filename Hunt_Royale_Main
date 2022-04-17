@@ -50,7 +50,7 @@ return {
     hunt048 = {true,true,false},
     hunt049 = {false,false,true},
     hunt050 = {true,true,true},
-    hunt051 = {true,false,false},
+    hunt051 = {true,false,true},
     hunt052 = {true,false,false},
     hunt053 = {true,false,false},
     hunt054 = {true,false,false},
