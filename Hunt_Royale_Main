@@ -18,7 +18,7 @@ return {
     hunt016 = {true,false,false},
     hunt017 = {true,true,false},
     hunt018 = {true,false,true},
-    hunt019 = {true,false,true},
+    hunt019 = {false,false,false},
     hunt020 = {true,false,true},
     hunt021 = {true,true,false},
     hunt022 = {true,true,false},
