@@ -6,7 +6,7 @@ return {
     hunt004 = {true,false,false},
     hunt005 = {true,false,false},
     hunt006 = {true,false,true},
-    hunt007 = {true,false,true},
+    hunt007 = {true,true,true},
     hunt008 = {false,true,false},
     hunt009 = {true,false,false},
     hunt010 = {true,true,true},
