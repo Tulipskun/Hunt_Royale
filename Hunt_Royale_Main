@@ -65,7 +65,7 @@ return {
     hunt062 = {true,false,false},
     hunt063 = {true,false,false},
     hunt064 = {true,true,false},
-    hunt065 = {true,false,true},
+    hunt065 = {true,true,true},
     hunt066 = {true,false,false},
     hunt067 = {true,false,false},
     hunt068 = {true,true,false},
