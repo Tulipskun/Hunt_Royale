@@ -95,7 +95,7 @@ return {
     hunt092 = {true,true,false},
     hunt093 = {true,true,true},
     hunt094 = {true,false,false},
-    hunt095 = {true,false,false},
+    hunt095 = {true,true,true},
     hunt096 = {true,false,false},
     hunt097 = {true,false,false},
     hunt098 = {true,false,false},
