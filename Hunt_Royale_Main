@@ -69,7 +69,7 @@ return {
     hunt066 = {true,false,false},
     hunt067 = {true,false,false},
     hunt068 = {true,true,false},
-    hunt069 = {true,true,true},
+    hunt069 = {false,false,false},
     hunt070 = {true,true,true},
     hunt071 = {true,true,true},
     hunt072 = {true,true,true},
@@ -98,7 +98,7 @@ return {
     hunt095 = {true,true,true},
     hunt096 = {false,true,true},
     hunt097 = {true,true,true},
-    hunt098 = {true,false,false},
+    hunt098 = {true,true,true},
     hunt099 = {true,false,false},
     hunt100 = {true,false,false}
 }
