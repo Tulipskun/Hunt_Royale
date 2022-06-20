@@ -102,4 +102,5 @@ return {
     hunt099 = {true,true,true},
     hunt100 = {true,false,false},
     hunt101 = {true,false,false},
+    hunt102 = {true,false,false},
 }
