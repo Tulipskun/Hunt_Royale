@@ -113,5 +113,5 @@ return {
     hunt110 = {true,true,true,true},
     hunt111 = {true,false,false},
     hunt112 = {true,false,false},
-    hunt113 = false,false,false,true},
+    hunt113 = {false,false,false,true},
 }
