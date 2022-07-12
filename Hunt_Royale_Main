@@ -127,4 +127,7 @@ return {
     hunt124 = {true,true,true,true},
     hunt125 = {true,true,true,true},
     hunt126 = {true,false,false},
+    hunt127 = {true,false,false},
+    hunt128 = {true,false,false},
+    hunt129 = {true,false,false},
 }
