@@ -1,5 +1,5 @@
 return {
-    version = 49,
+    version = 50,
     trial = true,
     hunt001 = {true,true,true},
     hunt002 = {true,false,false},
