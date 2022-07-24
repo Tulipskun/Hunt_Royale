@@ -3,7 +3,7 @@ return {
     trial = false,
     hunt001 = {true,true,true},
     hunt002 = {true,false,false},
-    hunt003 = {true,false,true,true},
+    hunt003 = {true,true,true,true},
     hunt004 = {true,false,false},
     hunt005 = {true,false,false,true},
     hunt006 = {true,false,true,true},
