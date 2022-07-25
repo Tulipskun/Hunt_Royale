@@ -1,7 +1,7 @@
 return {
     version = 62,
     trial = false,
-    hunt001 = {true,true,true,false,true},
+    hunt001 = {true,true,true,false},
     hunt002 = {true,false,false},
     hunt003 = {true,true,true,true},
     hunt004 = {true,false,false},
