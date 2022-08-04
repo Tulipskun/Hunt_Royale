@@ -154,4 +154,5 @@ return {
     hunt151 = {true,true,true,true,true},
     hunt152 = {true,true,false,true},
     hunt153 = {true,true,true,true,true},
+    hunt154 = {false,false,true,true},
 }
