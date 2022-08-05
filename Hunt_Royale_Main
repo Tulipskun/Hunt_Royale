@@ -157,5 +157,5 @@ return {
     hunt154 = {false,false,true,true},
     hunt155 = {true,false,true,true},
     hunt156 = {false,false,false,true},
-    hunt157 = {false,true,false,true},
+    hunt157 = {true,true,true,true,true},
 }
