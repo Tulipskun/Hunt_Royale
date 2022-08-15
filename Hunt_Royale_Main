@@ -1,5 +1,5 @@
 return {
-    version = 78,
+    version = 79,
     trial_version = 69,
     serverRunning = true,
     admin = {true,true,true,true,true},
