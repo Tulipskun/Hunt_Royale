@@ -158,7 +158,7 @@ return {
     hunt153 = {true,true,true,true,true},
     hunt154 = {true,true,true,true},
     hunt155 = {true,true,true,true},
-    hunt156 = {false,false,false,true},
+    hunt156 = {false,false,true,true},
     hunt157 = {true,true,true,true,true},
     hunt158 = {true,false},
     hunt159 = {true,true,true,true,true},
